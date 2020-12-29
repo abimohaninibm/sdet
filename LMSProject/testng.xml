@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="LMS TEST Suite">
+
+	<listeners>
+		<listener class-name="org.uncommons.reportng.HTMLReporter" />
+		<listener
+			class-name="org.uncommons.reportng.JUnitXMLReporter" />
+	</listeners>
+
+	<test thread-count="5" name="LMS_TEST" parallel="classes">
+		<classes>
+			<class name="lmsTestCases.VerifyTitleTest_1" />
+			<class name="lmsTestCases.VerifyHeadingTest_2" />
+			<class name="lmsTestCases.Verify1stTextBox_3" />
+			<class name="lmsTestCases.Verify2ndPopularCourseTest_4" />
+			<class name="lmsTestCases.VerifyMyAccountNav_5" />
+			<class name="lmsTestCases.VerifyLogin_6" />
+			<class name="lmsTestCases.VerifyCountCourses_7" />
+			<class name="lmsTestCases.VerifyContactAdmin_8" />
+			<class name="lmsTestCases.VerifyCompleteLesson_9" /> 
+		</classes>
+	</test> <!-- Test -->
+</suite> <!-- Suite -->

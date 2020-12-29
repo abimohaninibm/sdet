@@ -1,0 +1,173 @@
+<div id="ld-course-list-content-2f03b97ab51efe00449b53a93c07fbeb"
+	class="ld-course-list-content"
+	data-shortcode-atts="{&quot;include_outer_wrapper&quot;:&quot;true&quot;,&quot;num&quot;:20,&quot;paged&quot;:1,&quot;post_type&quot;:&quot;sfwd-courses&quot;,&quot;post_status&quot;:&quot;publish&quot;,&quot;order&quot;:&quot;asc&quot;,&quot;orderby&quot;:&quot;ID&quot;,&quot;user_id&quot;:false,&quot;mycourses&quot;:null,&quot;post__in&quot;:null,&quot;course_id&quot;:&quot;&quot;,&quot;meta_key&quot;:&quot;&quot;,&quot;meta_value&quot;:&quot;&quot;,&quot;meta_compare&quot;:&quot;&quot;,&quot;tag&quot;:&quot;&quot;,&quot;tag_id&quot;:0,&quot;tag__and&quot;:&quot;&quot;,&quot;tag__in&quot;:&quot;&quot;,&quot;tag__not_in&quot;:&quot;&quot;,&quot;tag_slug__and&quot;:&quot;&quot;,&quot;tag_slug__in&quot;:&quot;&quot;,&quot;cat&quot;:&quot;&quot;,&quot;category_name&quot;:0,&quot;category__and&quot;:&quot;&quot;,&quot;category__in&quot;:&quot;&quot;,&quot;category__not_in&quot;:&quot;&quot;,&quot;tax_compare&quot;:&quot;AND&quot;,&quot;categoryselector&quot;:&quot;true&quot;,&quot;show_thumbnail&quot;:&quot;true&quot;,&quot;show_content&quot;:&quot;true&quot;,&quot;author__in&quot;:&quot;&quot;,&quot;col&quot;:3,&quot;progress_bar&quot;:&quot;true&quot;,&quot;array&quot;:false,&quot;course_grid&quot;:&quot;true&quot;,&quot;thumb_size&quot;:&quot;course-thumb&quot;,&quot;course_categoryselector&quot;:&quot;&quot;,&quot;course_cat&quot;:&quot;&quot;,&quot;course_category_name&quot;:&quot;&quot;,&quot;course_category__and&quot;:&quot;&quot;,&quot;course_category__in&quot;:&quot;&quot;,&quot;course_category__not_in&quot;:&quot;&quot;,&quot;course_tag&quot;:&quot;&quot;,&quot;course_tag_id&quot;:&quot;&quot;,&quot;course_tag__and&quot;:&quot;&quot;,&quot;course_tag__in&quot;:&quot;&quot;,&quot;course_tag__not_in&quot;:&quot;&quot;,&quot;course_tag_slug__and&quot;:&quot;&quot;,&quot;course_tag_slug__in&quot;:&quot;&quot;}">
+	<div class="ld-course-list-items row">
+		<div class="ld_course_grid col-sm-8 col-md-4 ">
+			<article id="post-69"
+				class="thumbnail course post-69 sfwd-courses type-sfwd-courses status-publish has-post-thumbnail hentry ld_course_category-free ast-article-single">
+
+
+
+				<div class="ld_course_grid_price free">
+					Free
+				</div>
+
+				<a
+					href="https://alchemy.hguy.co/lms/courses/social-media-marketing/"
+					rel="bookmark">
+					<img
+						src="https://alchemy.hguy.co/lms/wp-content/uploads/2019/05/course-1-free-img-400x223.jpg"
+						class="attachment-course-thumb size-course-thumb wp-post-image"
+						alt=""
+						srcset="https://alchemy.hguy.co/lms/wp-content/uploads/2019/05/course-1-free-img-400x223.jpg 400w, https://alchemy.hguy.co/lms/wp-content/uploads/2019/05/course-1-free-img-300x167.jpg 300w, https://alchemy.hguy.co/lms/wp-content/uploads/2019/05/course-1-free-img-768x428.jpg 768w, https://alchemy.hguy.co/lms/wp-content/uploads/2019/05/course-1-free-img.jpg 1024w"
+						sizes="(max-width: 400px) 100vw, 400px" width="400" height="223">
+				</a>
+
+
+				<div class="caption">
+					<h3 class="entry-title">Social Media Marketing</h3>
+					<p class="entry-content">Lorem ipsum dolor sit amet, consectetur adipiscing elit
+						pellentesque porta.
+
+					</p>
+					<p class="ld_course_grid_button">
+						<a class="btn btn-primary" role="button"
+							href="https://alchemy.hguy.co/lms/courses/social-media-marketing/"
+							rel="bookmark">See more...</a>
+					</p>
+					<p>
+					</p>
+					<div class="learndash-wrapper learndash-widget">
+						<div class="ld-progress ld-progress-inline">
+							<div class="ld-progress-heading">
+								<div class="ld-progress-stats">
+									<div class="ld-progress-percentage ld-secondary-color">0% Complete</div>
+									<div class="ld-progress-steps">
+										0/8 Steps
+									</div>
+								</div> <!--/.ld-progress-stats -->
+							</div>
+
+							<div class="ld-progress-bar">
+								<div
+									class="ld-progress-bar-percentage ld-secondary-background"
+									style="width:0%"></div>
+							</div>
+						</div> <!--/.ld-progress -->
+					</div>
+					<p></p>
+				</div><!-- .entry-header -->
+			</article><!-- #post-## -->
+		</div>
+		<div class="ld_course_grid col-sm-8 col-md-4 ">
+			<article id="post-71"
+				class="thumbnail course post-71 sfwd-courses type-sfwd-courses status-publish has-post-thumbnail hentry ld_course_category-free ast-article-single">
+
+
+
+				<div class="ld_course_grid_price free">
+					Free
+				</div>
+
+				<a
+					href="https://alchemy.hguy.co/lms/courses/email-marketing-strategies/"
+					rel="bookmark">
+					<img
+						src="https://alchemy.hguy.co/lms/wp-content/uploads/2019/05/course-2-free-img-400x223.jpg"
+						class="attachment-course-thumb size-course-thumb wp-post-image"
+						alt=""
+						srcset="https://alchemy.hguy.co/lms/wp-content/uploads/2019/05/course-2-free-img-400x223.jpg 400w, https://alchemy.hguy.co/lms/wp-content/uploads/2019/05/course-2-free-img-300x167.jpg 300w, https://alchemy.hguy.co/lms/wp-content/uploads/2019/05/course-2-free-img-768x428.jpg 768w, https://alchemy.hguy.co/lms/wp-content/uploads/2019/05/course-2-free-img.jpg 1024w"
+						sizes="(max-width: 400px) 100vw, 400px" width="400" height="223">
+				</a>
+
+
+				<div class="caption">
+					<h3 class="entry-title">Email Marketing Strategies</h3>
+					<p class="entry-content">In porttitor ipsum eu justo condimentum euismod
+						ullamcorper viverra. </p>
+					<p class="ld_course_grid_button">
+						<a class="btn btn-primary" role="button"
+							href="https://alchemy.hguy.co/lms/courses/email-marketing-strategies/"
+							rel="bookmark">See more...</a>
+					</p>
+					<p>
+					</p>
+					<div class="learndash-wrapper learndash-widget">
+						<div class="ld-progress ld-progress-inline">
+							<div class="ld-progress-heading">
+								<div class="ld-progress-stats">
+									<div class="ld-progress-percentage ld-secondary-color">0% Complete</div>
+									<div class="ld-progress-steps">
+										0/2 Steps
+									</div>
+								</div> <!--/.ld-progress-stats -->
+							</div>
+
+							<div class="ld-progress-bar">
+								<div
+									class="ld-progress-bar-percentage ld-secondary-background"
+									style="width:0%"></div>
+							</div>
+						</div> <!--/.ld-progress -->
+					</div>
+					<p></p>
+				</div><!-- .entry-header -->
+			</article><!-- #post-## -->
+		</div>
+		<div class="ld_course_grid col-sm-8 col-md-4 ">
+			<article id="post-24042"
+				class="thumbnail course post-24042 sfwd-courses type-sfwd-courses status-publish has-post-thumbnail hentry ld_course_category-paid ast-article-single">
+
+
+
+				<div class="ld_course_grid_price price_$">
+					$ 1.00
+				</div>
+
+				<a
+					href="https://alchemy.hguy.co/lms/courses/how-to-play-the-piano/"
+					rel="bookmark">
+					<img
+						src="https://alchemy.hguy.co/lms/wp-content/uploads/2016/12/course-3-free-img-400x223.jpg"
+						class="attachment-course-thumb size-course-thumb wp-post-image"
+						alt=""
+						srcset="https://alchemy.hguy.co/lms/wp-content/uploads/2016/12/course-3-free-img-400x223.jpg 400w, https://alchemy.hguy.co/lms/wp-content/uploads/2016/12/course-3-free-img-300x167.jpg 300w, https://alchemy.hguy.co/lms/wp-content/uploads/2016/12/course-3-free-img-768x428.jpg 768w, https://alchemy.hguy.co/lms/wp-content/uploads/2016/12/course-3-free-img.jpg 1024w"
+						sizes="(max-width: 400px) 100vw, 400px" width="400" height="223">
+				</a>
+
+
+				<div class="caption">
+					<h3 class="entry-title">Content Marketing</h3>
+					<p class="entry-content">Repellat perspiciatis cum! Doloremque ea viverra eu
+						doloremque.</p>
+					<p class="ld_course_grid_button">
+						<a class="btn btn-primary" role="button"
+							href="https://alchemy.hguy.co/lms/courses/how-to-play-the-piano/"
+							rel="bookmark">See more...</a>
+					</p>
+					<p>
+					</p>
+					<div class="learndash-wrapper learndash-widget">
+						<div class="ld-progress ld-progress-inline">
+							<div class="ld-progress-heading">
+								<div class="ld-progress-stats">
+									<div class="ld-progress-percentage ld-secondary-color">0% Complete</div>
+									<div class="ld-progress-steps">
+										0/4 Steps
+									</div>
+								</div> <!--/.ld-progress-stats -->
+							</div>
+
+							<div class="ld-progress-bar">
+								<div
+									class="ld-progress-bar-percentage ld-secondary-background"
+									style="width:0%"></div>
+							</div>
+						</div> <!--/.ld-progress -->
+					</div>
+					<p></p>
+				</div><!-- .entry-header -->
+			</article><!-- #post-## -->
+		</div>
+	</div>
+</div>

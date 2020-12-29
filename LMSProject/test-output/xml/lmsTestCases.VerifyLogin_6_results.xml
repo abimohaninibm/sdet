@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="LMS_TEST"
+           tests="1"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="5.318">
+  <properties />
+  
+  
+            <testcase name="lmsLoginTest" time="5.318" classname="lmsTestCases.VerifyLogin_6" />
+      
+</testsuite>
